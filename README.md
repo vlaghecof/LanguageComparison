@@ -24,3 +24,4 @@ Plotter
 This python script was written using, pandas and NumPy, in order to offer a graphical representation of the measurement that we made. The script reads the CSV files corresponding to each measurement, processes the data bringing all the CSV files to the same format ( same name of columns, and groups the measurements together), and after that, it creates a bar graph that displays the measurements. The script can also generate a comparison graph between two or more categories ( e.g the comparison of OOP between Java and C# ).
 After the plots were generated, the program will save the graph in the respected folder ( if it displays a python measurement, it will save it in the python corresponding file for images ).
   
+<img src="https://github.com/vlaghecof/LanguageComparison/blob/master/asset/CreateArr.csv.png" height="500em" />;
