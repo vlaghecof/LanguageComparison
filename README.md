@@ -16,3 +16,15 @@ versatile programming language, that can be applied to anything.
 In the end we also want to establish a comparison between two types of typing , static
 typing ( represented by the Java , C#) and dynamic typing (Python)
 
+  
+The TEST , that we wanted to measure were : Memory allocation , work with containers ( lists, hash tables ) , OOP capabilities , and Threading potential .
+
+  
+Plotter   This python script was written using ,pandas and numpy ,in order to offer a graphical representations  of the measurement 
+that we made . The script reads the csv files coresponding to each measurement , processes the data bringing all 
+the csv files to the same format ( same name of columns , and groups the measurements together) and after that 
+it creates a bar graph that displays the measurements . The script can also generate a comparison graph
+between two or more categories ( e.g the comparison of OOP between Java and C# ) .  
+After the plots were generated , the program will save the grapf in the respected folder ( if it displays a python 
+measurement , it will save it in the python corespondig file for images ).
+  
